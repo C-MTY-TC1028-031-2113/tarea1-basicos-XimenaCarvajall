@@ -1,10 +1,1 @@
-def main():
-    from math import sqrt
-    pass
-    
-   
-
-
-
-if __name__ == '__main__':
-    main()
+print ((2 * 5 == 10) or (3 >= 7) and (4 <= 4))
